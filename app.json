@@ -1,0 +1,13 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/cspage/cspage",
+    "pages/csresult/csresult"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "姐测",
+    "navigationBarTextStyle": "black"
+  }
+}

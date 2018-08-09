@@ -1,0 +1,8 @@
+<!--pages/cspage/cspage.wxml-->
+<view class="qtext">{{title}}</view>
+<radio-group class="radio-group">
+  <label class="radio" wx:for="{{select}}" wx:key="*this" bindtap='onSelect' data-nextq="{{item.go}}">
+    <radio value="{{item.go}}" checked='{{item.go==-1}}'/>{{item.title}}
+  </label>
+</radio-group>
+<button class="btnPre" type="primary" bindtap="onPre">上一题</button>

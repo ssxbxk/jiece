@@ -1,0 +1,24 @@
+/* pages/cspage/cspage.wxss */
+.qtext{
+  font-weight: bold;
+  color:cadetblue;
+  margin:20px;
+  font-size: 15pt;
+  height: 40px;
+}
+
+.radio-group{
+  margin:20px;
+  border-bottom: 1px solid #ddd;
+}
+
+.radio{
+  margin-left: 10px;
+  display: block;
+  border-top: 1px solid #ddd;
+  padding: 5px;
+}
+
+.btnPre{
+  margin:20px;
+}

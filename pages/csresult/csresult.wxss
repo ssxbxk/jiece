@@ -1,0 +1,13 @@
+/* pages/csresult/csresult.wxss */
+.title{
+  font-weight: bold;
+  color:goldenrod;
+  margin:10px;
+  font-size: 15pt;
+}
+
+.content{
+  color:cornflowerblue;
+  margin:10px;
+  font-size: 12pt;
+}

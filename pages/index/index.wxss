@@ -1,0 +1,41 @@
+.contentview{
+  margin: 20px;
+  display: flex;
+  flex-direction:row;
+  border-bottom: 2px solid royalblue;
+}
+
+.txtImp{
+  font-weight: bold;
+  color:red;
+  margin-top:20px;
+  text-align: center;
+  font-size: 15pt;
+}
+
+.dsImage{
+  width:60px;
+  height:60px;
+}
+
+.testItem{
+  margin: 10px;
+  display: flex;
+  flex-direction:row;
+  vertical-align: middle;
+  border-bottom: 1px solid #ddd;
+}
+
+.itemImage{
+  width:60px;
+  height:60px;
+}
+
+.itemTxt{
+  color:black;
+  text-align: center;
+  font-size: 12pt;
+  vertical-align: middle;
+  margin-top:20px;
+  margin-left: 5px;
+}

@@ -1,0 +1,3 @@
+<!--pages/csresult/csresult.wxml-->
+<view class="title">{{idx}}. {{title}}</view>
+<view class="content">{{desc}}</view>
