@@ -1,8 +1,11 @@
 {
   "pages": [
-    "pages/index/index",
-    "pages/cspage/cspage",
-    "pages/csresult/csresult"
+    "pages/jiankang/gxy/gxymain",
+    "pages/mainpage/mainpage",
+    "pages/yule/index/index",
+    "pages/yule/cspage/cspage",
+    "pages/yule/csresult/csresult",
+    "pages/jiankang/index/index"    
   ],
   "window": {
     "backgroundTextStyle": "light",

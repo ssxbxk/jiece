@@ -1,0 +1,10 @@
+<!--pages/jiankang/gxy/gxymain.wxml-->
+<scroll-view>
+  <view class="contentview">
+    <view class="titleTxt">高血压分级表</view>
+  </view>
+  <image class="itemImage" mode="aspectFit" src="../../../images/gxyfj.jpg"></image>
+
+  <view class="itemTxt">高血压是一种可防可控的疾病，对血压130～139/85～89mmHg正常高值阶段、超重/肥胖、长期高盐饮食、过量饮酒者应进行重点干预，定期健康体检，积极控制危险因素。
+针对高血压患者，应定期随访和测量血压，尤其注意清晨血压的管理，积极治疗高血压（药物治疗与生活方式干预并举），减缓靶器官损害，预防心脑肾并发症的发生，降低致残率及死亡率。</view>
+</scroll-view>

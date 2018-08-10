@@ -1,0 +1,38 @@
+/* pages/mainpage/mainpage.wxss */
+.contentview{
+  margin: 20px;
+  border-bottom: 1px solid royalblue;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.dsImage{
+  width:60px;
+  height:60px;
+}
+
+.testItem{
+  margin: 10px;
+  display: flex;
+  flex-direction:row;
+  vertical-align: middle;
+  border-bottom: 1px solid #ddd;
+}
+
+.itemImage{
+  width:60px;
+  height:60px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+
+.itemTxt{
+  color:cadetblue;
+  text-align: center;
+  font-size: 20pt;
+  vertical-align: middle;
+  margin-top:10px;
+  margin-left: 20px;
+  font-weight: bold;
+}

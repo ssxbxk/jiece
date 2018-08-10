@@ -1,0 +1,15 @@
+<!--pages/jiankang/index/index.wxml-->
+<view class="contentview">
+  <image class="dsImage" mode="aspectFit" src="../../../images/logo.png"></image>
+</view>
+<scroll-view id="svMain">
+  <block wx:for="{{qitems}}" wx:key="*this">
+    <template is="listItem" data="{{...item}}"/>
+  </block>
+</scroll-view>
+<template name="listItem">
+  <view class="testItem" bindtap='OnSelectItem' data-jumpto="{{jumpto}}">
+    <image class="itemImage" mode="aspectFit" src="{{img}}"></image>
+    <text class="itemTxt">{{title}}</text>
+  </view>
+</template>

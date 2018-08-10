@@ -1,5 +1,5 @@
 // pages/csresult/csresult.js
-var utils = require("../../utils/util.js")
+var utils = require("../../../utils/util.js")
 
 Page({
   /**
@@ -22,6 +22,13 @@ Page({
         }
         break;
       }
+    }
+  },
+  onShareAppMessage: function (e) {
+    return {
+      title: utils.shareTitle,
+      desc: utils.shareDesc,
+      path: utils.sharePath
     }
   }
 })

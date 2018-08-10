@@ -1,3 +1,7 @@
+const shareTitle = "姐测"
+const shareDesc = "最全面最好玩的小测测!"
+const sharePath = "/pages/mainpage/mainpage"
+
 const formatTime = date => {
   const year = date.getFullYear()
   const month = date.getMonth() + 1
@@ -21,5 +25,8 @@ const getJsonData = () => {
 
 module.exports = {
   formatTime: formatTime,
-  getJsonData: getJsonData
+  getJsonData: getJsonData,
+  shareTitle: shareTitle,
+  shareDesc: shareDesc,
+  sharePath: sharePath
 }

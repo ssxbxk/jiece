@@ -1,5 +1,5 @@
 // pages/cspage/cspage.js
-var utils = require("../../utils/util.js")
+var utils = require("../../../utils/util.js")
 var iCurrentIdx = 1
 var arrTM = []
 var questionObj = null
@@ -47,6 +47,13 @@ Page({
   LoadQuestionToMask:function(){
     if (questionObj != null && questionObj.items.length >= iCurrentIdx){
       this.setData(questionObj.items[iCurrentIdx-1])
+    }
+  },
+  onShareAppMessage: function (e) {
+    return {
+      title: utils.shareTitle,
+      desc: utils.shareDesc,
+      path: utils.sharePath
     }
   }
 })
