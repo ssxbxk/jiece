@@ -1,0 +1,34 @@
+<!--pages/jiankang/gxb/gxbmain.wxml-->
+<scroll-view>
+  <view class="contentview">
+    <view class="titleTxt">一个预防冠心病的健康公式</view>
+  </view>
+  <view class="itemTxt">防治冠心病保健康，我们是可以通过避免日常生活中的误区，可以达到一个比较好的效果，具体可以总结为一个公式：</view>
+  <view class="itemTxtRed">（保持乐观＋经常运动＋合理饮食）÷（懒惰＋吸烟＋嗜酒）</view>
+
+  <view class="contentview">
+    <view class="titleTxt">危险因素与诱因</view>
+  </view>
+  <view class="itemTxt">冠心病的危险因素包括可改变的危险因素和不可改变的危险因素。了解并干预危险因素有助于冠心病的防治。
+可改变的危险因素有：高血压，血脂异常（总胆固醇过高或低密度脂蛋白胆固醇过高、甘油三酯过高、高密度脂蛋白胆固醇过低）、超重/肥胖、高血糖/糖尿病，不良生活方式包括吸烟、不合理膳食（高脂肪、高胆固醇、高热量等）、缺少体力活动、过量饮酒，以及社会心理因素。不可改变的危险因素有：性别、年龄、家族史。此外，与感染有关，如巨细胞病毒、肺炎衣原体、幽门螺杆菌等。
+冠心病的发作常常与季节变化、情绪激动、体力活动增加、饱食、大量吸烟和饮酒等有关。</view>
+
+  <view class="contentview">
+    <view class="titleTxt">怎样早期发现冠心病？</view>
+  </view>
+  <view class="itemTxtSub">（1）劳累或精神紧张时出现胸骨后或心前区闷痛，或紧缩样疼痛，并向左肩、左上臂放射，持续3-5分钟，休息后自行缓解者。</view>
+  <view class="itemTxtSub">（2）体力活动时出现胸闷、心悸、气短，休息时自行缓解者。</view>
+  <view class="itemTxtSub">（3）出现与运动有关的头痛、牙痛、腿痛等。</view>
+  <view class="itemTxtSub">（4）饱餐、寒冷或看惊险影片时出现胸痛、心悸者。</view>
+  <view class="itemTxtSub">（5）夜晚睡眠枕头低时，感到胸闷憋气，需要高枕卧位方感舒适者；熟睡、或白天平卧时突然胸痛、心悸、呼吸困难，需立即坐起或站立方能缓解者。</view>
+  <view class="itemTxtSub">（6）性生活或用力排便时出现心慌、胸闷、气急或胸痛不适。</view>
+  <view class="itemTxtSub">（7）听到噪声便引起心慌、胸闷者。</view>
+  <view class="itemTxtSub">（8）反复出现脉搏不齐，不明原因心跳过速或过缓者。</view>
+  <view class="itemTxtSub">（9）为及早发现冠心病，40岁以上的人应定期做以下的检验：</view>
+  <view class="itemTxtSub">（10）如果检验结果不正常或有其他的易患冠心病的危险因素，应该每五年作一次或更多次血胆固醇化验。</view>
+  <view class="itemTxtSub">（11）每年作一次血压检查。</view>
+  <view class="itemTxtSub">（12）每年作一次血糖检查。</view>
+  <view class="itemTxtSub">（13）若属于冠心病的高危人群，就要请医生查看是否需要接受心电图检查。若需要进一步的检查，医生会安排做一项运动试验以测出在踩固定脚车或踩运动平板机时的心电图。</view>
+  <view class="itemTxtSub">（14）冠状动脉造影检查是诊断冠心病最肯定的方法。</view>
+
+</scroll-view>

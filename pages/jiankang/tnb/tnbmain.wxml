@@ -1,0 +1,8 @@
+<!--pages/jiankang/tnb/tnbmain.wxml-->
+<scroll-view>
+  <view class="contentview">
+    <view class="titleTxt">血糖值对照表</view>
+  </view>
+  <image class="itemImage" mode="aspectFit" src="../../../images/xtzdzb.png"></image>
+
+</scroll-view>
