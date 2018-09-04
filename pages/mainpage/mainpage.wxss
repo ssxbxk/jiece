@@ -1,7 +1,7 @@
 /* pages/mainpage/mainpage.wxss */
 .contentview{
   margin: 20px;
-  border-bottom: 1px solid royalblue;
+  /*border-bottom: 1px solid royalblue;*/
   display: flex;
   flex-direction: row;
   justify-content: center;

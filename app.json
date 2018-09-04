@@ -1,13 +1,13 @@
 {
   "pages": [
-    "pages/jiankang/tnb/tnbmain",
+    "pages/mainpage/mainpage",
     "pages/yule/index/index",
     "pages/yule/cspage/cspage",
     "pages/yule/csresult/csresult",
     "pages/jiankang/index/index",
     "pages/jiankang/gxy/gxymain",
-    "pages/mainpage/mainpage",
-    "pages/jiankang/gxb/gxbmain"    
+    "pages/jiankang/gxb/gxbmain",
+    "pages/jiankang/tnb/tnbmain"
   ],
   "window": {
     "backgroundTextStyle": "light",
